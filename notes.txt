@@ -1,0 +1,7 @@
+21-7
+- all datatypes used in java.
+- how jvm runs, what tasks perform jvm (loading, linking, initialization, execution)
+- variables: local , instance , static.
+- casting: implicit casting (widening) , expilicit casting(narrowing)
+- Scanner class : input and print
+
