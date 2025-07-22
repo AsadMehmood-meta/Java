@@ -5,3 +5,11 @@
 - casting: implicit casting (widening) , expilicit casting(narrowing)
 - Scanner class : input and print
 
+22-7
+- bitwise operator
+- enums
+- active indicator
+- classes: encapsulation, abstraction, abstract class, interfaces, inheritance, polymorphism.
+- this keyword
+- stack vs heap in java
+- 
