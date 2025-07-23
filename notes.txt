@@ -12,4 +12,11 @@
 - classes: encapsulation, abstraction, abstract class, interfaces, inheritance, polymorphism.
 - this keyword
 - stack vs heap in java
+
+23-7
+- design patterns
+- string methods
+- == vs .equals()
+- constructor types
+- StringBuilder and StringBuffer
 - 
