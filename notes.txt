@@ -14,9 +14,22 @@
 - stack vs heap in java
 
 23-7
-- design patterns
+- design patterns in java (almost 17) (template method pattern, strategy design pattern)
 - string methods
 - == vs .equals()
 - constructor types
 - StringBuilder and StringBuffer
+- Home task
+
+28-7
+- interfaces & sealed classes/interfaces (resolve diamond problems)
+- java packages and logical segregators
+- inheritance
+
+29-7
+- java garbage collector algorithms (mark, sweep, generational GC)
+- differnece b/w abstract and interface class , when to use, how to use, real life examples
+- diff b/w public , static and final in fields of classes
+- Assignment: comparable, runnable, serializable in API (interface class)
+- lambda expression (Functional interfaces)
 - 
