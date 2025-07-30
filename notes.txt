@@ -36,3 +36,5 @@
 30-7
 - super keyword (method calling and constructor calling)
 - exception handling (throw vs throws)(custom exception classes)
+- Static , instance and constructor block
+
