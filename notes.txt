@@ -14,7 +14,7 @@
 - stack vs heap in java
 
 23-7
-- design patterns in java (almost 17) (template method pattern, strategy design pattern)
+- design patterns in java (almost 17) (template method design pattern, strategy design pattern)
 - string methods
 - == vs .equals()
 - constructor types
@@ -32,4 +32,7 @@
 - diff b/w public , static and final in fields of classes
 - Assignment: comparable, runnable, serializable in API (interface class)
 - lambda expression (Functional interfaces)
-- 
+
+30-7
+- super keyword (method calling and constructor calling)
+- exception handling (throw vs throws)(custom exception classes)
