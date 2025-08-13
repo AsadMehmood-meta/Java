@@ -1,3 +1,5 @@
+Note: app must follow these principles (packages, modules, exception handling, structured API response)
+
 21-7
 - all datatypes used in java.
 - how jvm runs, what tasks perform jvm (loading, linking, initialization, execution)
@@ -38,3 +40,23 @@
 - exception handling (throw vs throws)(custom exception classes)
 - Static , instance and constructor block
 
+05-8
+- module boundaris in encapsulation
+- compression strategy in object creation 
+- java modules (jar files , microservices)
+
+07-8
+- collection framework
+- ArrayList, LinkedList, HashMap.
+
+11-8
+- Maps , Queue and their sub classes
+
+12-8
+- hashing techniques , how HashMap, HashSet, HashTable use hashing and why?
+- Sets and their sub-classes
+- reflection
+- wrapper class
+- Stream (map(), flatMap(), anyMatch(), allMatch(), noneMatch(), reduce(), )
+- LRU cahche
+- JSON and XML
