@@ -60,3 +60,10 @@ Note: app must follow these principles (packages, modules, exception handling, s
 - Stream (map(), flatMap(), anyMatch(), allMatch(), noneMatch(), reduce(), )
 - LRU cahche
 - JSON and XML
+
+18-8
+- Reflections
+- learn sockets. create socket connection in one class with another class. server class open socket and client class recieve socket and acknowledge. 
+- tcp connection, udp connection.
+- Annotations
+- 
