@@ -46,7 +46,7 @@ Note: app must follow these principles (packages, modules, exception handling, s
 - java modules (jar files , microservices)
 
 07-8
-- collection framework
+- Collection framework
 - ArrayList, LinkedList, HashMap.
 
 11-8
@@ -55,9 +55,9 @@ Note: app must follow these principles (packages, modules, exception handling, s
 12-8
 - hashing techniques , how HashMap, HashSet, HashTable use hashing and why?
 - Sets and their sub-classes
-- reflection
+- Reflection
 - wrapper class
-- Stream (map(), flatMap(), anyMatch(), allMatch(), noneMatch(), reduce(), )
+- Streams (map(), flatMap(), anyMatch(), allMatch(), noneMatch(), reduce(), )
 - LRU cahche
 - JSON and XML
 
@@ -66,4 +66,10 @@ Note: app must follow these principles (packages, modules, exception handling, s
 - learn sockets. create socket connection in one class with another class. server class open socket and client class recieve socket and acknowledge. 
 - tcp connection, udp connection.
 - Annotations
-- 
+
+25-8
+- jms qeueu (java messaging servise)
+- manual locks, multithreading, 
+- SpringBoot(Spring Web, Spring Data JPA, Spring Security)
+- (version conflict , dependency hell)
+- pom.xml , application.properties , logging configuration , 
