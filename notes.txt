@@ -1,4 +1,10 @@
-Note: app must follow these principles (packages, modules, exception handling, structured API response)
+A good developer must follow these principles (packages, modules, exception handling, structured API response, proper logging (issue handling), )
+
+(ISSUE ANALYSIS) how to handle error: RCA(root cause analysis)
+- check request and response
+- then check types of error
+- then check logs, configurations, url error(dev, prod, uet, etc) etc.
+
 
 21-7
 - all datatypes used in java.
@@ -72,4 +78,11 @@ Note: app must follow these principles (packages, modules, exception handling, s
 - manual locks, multithreading, 
 - SpringBoot(Spring Web, Spring Data JPA, Spring Security)
 - (version conflict , dependency hell)
-- pom.xml , application.properties , logging configuration , 
+- pom.xml , application.properties
+- custom logging (log4j framework) (log information (errors, warnings, debug info, system events))
+- types of log (two types)
+
+26-8
+- web: controller or endpoints
+- Inversion of control & Dependency injection (baeldung.com/inversion-control-and-depedency-injection-in-spring)
+- @Bean, @Components, @Autowired, @Qualifier, 
