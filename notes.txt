@@ -85,4 +85,18 @@ A good developer must follow these principles (packages, modules, exception hand
 26-8
 - web: controller or endpoints
 - Inversion of control & Dependency injection (baeldung.com/inversion-control-and-depedency-injection-in-spring)
-- @Bean, @Components, @Autowired, @Qualifier, 
+- @Bean, @Components, @Autowired, @Qualifier, @Configuration, @Service, @Repository, @Scope, @Resourse, @Inject, 
+
+27-8
+(@Configuration is used for custom bean, @bean with @Configuration) 
+	baeldung.com/spring-component-service-repository
+	baeldung.com/spring-annotations-resourse-inject-autowired
+- @Component is for Spring based 
+- @Service is for bussiness logic
+- @Repository is used when deal with database
+- diff between @Autowired @Resourse @Inject
+- Spring Web (for REST API)
+- @PathVariable vs @RequestParam
+- HTTP codes
+- Json with Jackson
+- 
