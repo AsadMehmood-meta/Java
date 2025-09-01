@@ -99,4 +99,10 @@ A good developer must follow these principles (packages, modules, exception hand
 - @PathVariable vs @RequestParam
 - HTTP codes
 - Json with Jackson
+
+01-9
+- reffrential integrity
+- Transaction management (ACID properties) (AOP proxies) 
+- Basic properties of @transactional: propagation, isolation, etc
+- pre-update, post-update in transactional management
 - 
