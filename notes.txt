@@ -105,4 +105,9 @@ A good developer must follow these principles (packages, modules, exception hand
 - Transaction management (ACID properties) (AOP proxies) 
 - Basic properties of @transactional: propagation, isolation, etc
 - pre-update, post-update in transactional management
-- 
+- Query DSL : projection, booleanbuilder, pagination, dynamic filter, Pageable.
+
+03-9
+- Spring Secuirty: Authentication, Authorization, @value, UserDetailService,
+		 JWT token, bearer token, 
+- browser security: crsf, cors.	
